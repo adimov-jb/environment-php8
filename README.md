@@ -8,7 +8,7 @@ docker-compose up -d
 
 cd www
 
-git clone https://github.com/acarlosos/Desafio-Tecnico-Backend-PHP-2023.git .
+git clone https://github.com/adimov-jb/Desafio-Tecnico-Backend-PHP-2023.git .
 
 ls
 
