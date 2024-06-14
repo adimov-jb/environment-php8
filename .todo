@@ -1,0 +1,12 @@
+1- Criar ambiente docker [OK]
+2- Download framework laravel [OK]
+3- Instalação do livewire  [OK]
+4- instalação do Tema [OK]
+5- Autenticação [OK]
+6- Papeis e Permissões [P]
+7- Criar papeis Admin, Team lead, Designer
+8- Criar tela de Login [OK]
+9- Criar CRUD de usuário
+10- Criar Dashboard
+11- Criar Production
+
