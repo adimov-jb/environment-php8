@@ -1,4 +1,4 @@
-git clone git@github.com:acarlosos/environment-php8.git environment-php8
+git clone https://github.com/adimov-jb/environment-php8.git
 
 cd environment-php8/
 
