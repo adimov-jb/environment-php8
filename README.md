@@ -39,3 +39,8 @@ php artisan optimize
 php artisan migrate
 
 php artisan db:seed
+
+
+Documentação
+
+http://localhost:8091/api/documentation#/Task/task-store
